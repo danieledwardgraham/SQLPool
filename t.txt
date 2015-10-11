@@ -1,0 +1,456 @@
+BEGIN OF PROGRAM.
+Setup Status.
+Setup Complete.
+Got one message:
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=76672,port=3306,socket=0,data_id=0
+Adding key...
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=76672,port=3306,socket=0,data_id=0
+Created new connection
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=76672,port=3306,socket=0,data_id=0
+rows returned: 1
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=76672,port=3306,socket=0,data_id=0
+Target for new data: -1208889332
+Success on write data
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=76672,port=3306,socket=0,data_id=0
+Got one message:
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=431540,port=3306,socket=0,data_id=1
+Reusing connection
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=431540,port=3306,socket=0,data_id=1
+rows returned: 1
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=431540,port=3306,socket=0,data_id=1
+Target for new data: -1208889301
+Success on write data
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=431540,port=3306,socket=0,data_id=1
+Got one message:
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=247412,port=3306,socket=0,data_id=2
+Reusing connection
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=247412,port=3306,socket=0,data_id=2
+rows returned: 1
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=247412,port=3306,socket=0,data_id=2
+Target for new data: -1208889268
+Success on write data
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=247412,port=3306,socket=0,data_id=2
+Got one message:
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=203042,port=3306,socket=0,data_id=3
+Reusing connection
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=203042,port=3306,socket=0,data_id=3
+Got one message:
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=249460,port=3306,socket=0,data_id=4
+Created new connection
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=249460,port=3306,socket=0,data_id=4
+rows returned: 1
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=249460,port=3306,socket=0,data_id=4
+Target for new data: -1208889235
+Success on write data
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=249460,port=3306,socket=0,data_id=4
+rows returned: 1
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=203042,port=3306,socket=0,data_id=3
+Target for new data: -1208889202
+Success on write data
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=203042,port=3306,socket=0,data_id=3
+Got one message:
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=44961,port=3306,socket=0,data_id=5
+Reusing connection
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=44961,port=3306,socket=0,data_id=5
+rows returned: 1
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=44961,port=3306,socket=0,data_id=5
+Target for new data: -1208889169
+Success on write data
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=44961,port=3306,socket=0,data_id=5
+Got one message:
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=350956,port=3306,socket=0,data_id=6
+Reusing connection
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=350956,port=3306,socket=0,data_id=6
+rows returned: 1
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=350956,port=3306,socket=0,data_id=6
+Target for new data: -1208889138
+Success on write data
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=350956,port=3306,socket=0,data_id=6
+Got one message:
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=9594,port=3306,socket=0,data_id=7
+Reusing connection
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=9594,port=3306,socket=0,data_id=7
+rows returned: 3
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=9594,port=3306,socket=0,data_id=7
+Target for new data: -1208889105
+Success on write data
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=9594,port=3306,socket=0,data_id=7
+Got one message:
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=497607,port=3306,socket=0,data_id=8
+Reusing connection
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=497607,port=3306,socket=0,data_id=8
+rows returned: 1
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=497607,port=3306,socket=0,data_id=8
+Target for new data: -1208889034
+Success on write data
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=497607,port=3306,socket=0,data_id=8
+Got one message:
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=47883,port=3306,socket=0,data_id=9
+Reusing connection
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=47883,port=3306,socket=0,data_id=9
+Got one message:
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=371345,port=3306,socket=0,data_id=10
+Reusing connection
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=371345,port=3306,socket=0,data_id=10
+rows returned: 1
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=371345,port=3306,socket=0,data_id=10
+Target for new data: -1208889001
+Success on write data
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=371345,port=3306,socket=0,data_id=10
+Got one message:
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=170913,port=3306,socket=0,data_id=11
+Reusing connection
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=170913,port=3306,socket=0,data_id=11
+rows returned: 1
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=170913,port=3306,socket=0,data_id=11
+Target for new data: -1208888968
+Success on write data
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=170913,port=3306,socket=0,data_id=11
+rows returned: 1
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=47883,port=3306,socket=0,data_id=9
+Target for new data: -1208888935
+Success on write data
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=47883,port=3306,socket=0,data_id=9
+Got one message:
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=290607,port=3306,socket=0,data_id=12
+Reusing connection
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=290607,port=3306,socket=0,data_id=12
+Got one message:
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=247245,port=3306,socket=0,data_id=13
+Reusing connection
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=247245,port=3306,socket=0,data_id=13
+rows returned: 1
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=247245,port=3306,socket=0,data_id=13
+Target for new data: -1208888904
+Success on write data
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=247245,port=3306,socket=0,data_id=13
+Got one message:
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=447862,port=3306,socket=0,data_id=14
+Reusing connection
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=447862,port=3306,socket=0,data_id=14
+rows returned: 1
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=290607,port=3306,socket=0,data_id=12
+Target for new data: -1208888871
+Success on write data
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=290607,port=3306,socket=0,data_id=12
+rows returned: 1
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=447862,port=3306,socket=0,data_id=14
+Target for new data: -1208888838
+Success on write data
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=447862,port=3306,socket=0,data_id=14
+Got one message:
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=181670,port=3306,socket=0,data_id=15
+Reusing connection
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=181670,port=3306,socket=0,data_id=15
+rows returned: 1
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=181670,port=3306,socket=0,data_id=15
+Target for new data: -1208888805
+Success on write data
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=181670,port=3306,socket=0,data_id=15
+Got one message:
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=419354,port=3306,socket=0,data_id=16
+Reusing connection
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=419354,port=3306,socket=0,data_id=16
+rows returned: 1
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=419354,port=3306,socket=0,data_id=16
+Target for new data: -1208888772
+Success on write data
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=419354,port=3306,socket=0,data_id=16
+Got one message:
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=471719,port=3306,socket=0,data_id=17
+Reusing connection
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=471719,port=3306,socket=0,data_id=17
+rows returned: 1
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=471719,port=3306,socket=0,data_id=17
+Target for new data: -1208888739
+Success on write data
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=471719,port=3306,socket=0,data_id=17
+Got one message:
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=491697,port=3306,socket=0,data_id=18
+Reusing connection
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=491697,port=3306,socket=0,data_id=18
+rows returned: 1
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=491697,port=3306,socket=0,data_id=18
+Target for new data: -1208888706
+Success on write data
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=491697,port=3306,socket=0,data_id=18
+Got one message:
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=171675,port=3306,socket=0,data_id=19
+Reusing connection
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=171675,port=3306,socket=0,data_id=19
+rows returned: 1
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=171675,port=3306,socket=0,data_id=19
+Target for new data: -1208888673
+Success on write data
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=171675,port=3306,socket=0,data_id=19
+Got one message:
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=435809,port=3306,socket=0,data_id=20
+Reusing connection
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=435809,port=3306,socket=0,data_id=20
+rows returned: 1
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=435809,port=3306,socket=0,data_id=20
+Target for new data: -1208888640
+Success on write data
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=435809,port=3306,socket=0,data_id=20
+Got one message:
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=331967,port=3306,socket=0,data_id=21
+Reusing connection
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=331967,port=3306,socket=0,data_id=21
+rows returned: 1
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=331967,port=3306,socket=0,data_id=21
+Target for new data: -1208888607
+Success on write data
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=331967,port=3306,socket=0,data_id=21
+Got one message:
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=338121,port=3306,socket=0,data_id=22
+Reusing connection
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=338121,port=3306,socket=0,data_id=22
+rows returned: 1
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=338121,port=3306,socket=0,data_id=22
+Target for new data: -1208888574
+Success on write data
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=338121,port=3306,socket=0,data_id=22
+Got one message:
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=189979,port=3306,socket=0,data_id=23
+Reusing connection
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=189979,port=3306,socket=0,data_id=23
+rows returned: 1
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=189979,port=3306,socket=0,data_id=23
+Target for new data: -1208888541
+Success on write data
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=189979,port=3306,socket=0,data_id=23
+Got one message:
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=212314,port=3306,socket=0,data_id=24
+Reusing connection
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=212314,port=3306,socket=0,data_id=24
+rows returned: 1
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=212314,port=3306,socket=0,data_id=24
+Target for new data: -1208888508
+Success on write data
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=212314,port=3306,socket=0,data_id=24
+Got one message:
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=368743,port=3306,socket=0,data_id=25
+Reusing connection
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=368743,port=3306,socket=0,data_id=25
+rows returned: 1
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=368743,port=3306,socket=0,data_id=25
+Target for new data: -1208888475
+Success on write data
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=368743,port=3306,socket=0,data_id=25
+Got one message:
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=230324,port=3306,socket=0,data_id=26
+Reusing connection
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=230324,port=3306,socket=0,data_id=26
+rows returned: 1
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=230324,port=3306,socket=0,data_id=26
+Target for new data: -1208888442
+Success on write data
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=230324,port=3306,socket=0,data_id=26
+Got one message:
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=96606,port=3306,socket=0,data_id=27
+Reusing connection
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=96606,port=3306,socket=0,data_id=27
+rows returned: 1
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=96606,port=3306,socket=0,data_id=27
+Target for new data: -1208888409
+Success on write data
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=96606,port=3306,socket=0,data_id=27
+Got one message:
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=90538,port=3306,socket=0,data_id=28
+Reusing connection
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=90538,port=3306,socket=0,data_id=28
+rows returned: 1
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=90538,port=3306,socket=0,data_id=28
+Target for new data: -1208888378
+Success on write data
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=90538,port=3306,socket=0,data_id=28
+Got one message:
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=45182,port=3306,socket=0,data_id=29
+Reusing connection
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=45182,port=3306,socket=0,data_id=29
+rows returned: 1
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=45182,port=3306,socket=0,data_id=29
+Target for new data: -1208888347
+Success on write data
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=45182,port=3306,socket=0,data_id=29
+Got one message:
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=396507,port=3306,socket=0,data_id=30
+Reusing connection
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=396507,port=3306,socket=0,data_id=30
+rows returned: 1
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=396507,port=3306,socket=0,data_id=30
+Target for new data: -1208888316
+Success on write data
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=396507,port=3306,socket=0,data_id=30
+Got one message:
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=119137,port=3306,socket=0,data_id=31
+Reusing connection
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=119137,port=3306,socket=0,data_id=31
+rows returned: 1
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=119137,port=3306,socket=0,data_id=31
+Target for new data: -1208888283
+Success on write data
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=119137,port=3306,socket=0,data_id=31
+Got one message:
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=110464,port=3306,socket=0,data_id=32
+Reusing connection
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=110464,port=3306,socket=0,data_id=32
+rows returned: 1
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=110464,port=3306,socket=0,data_id=32
+Target for new data: -1208888250
+Success on write data
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=110464,port=3306,socket=0,data_id=32
+Got one message:
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=264802,port=3306,socket=0,data_id=33
+Reusing connection
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=264802,port=3306,socket=0,data_id=33
+rows returned: 1
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=264802,port=3306,socket=0,data_id=33
+Target for new data: -1208888217
+Success on write data
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=264802,port=3306,socket=0,data_id=33
+Got one message:
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=332045,port=3306,socket=0,data_id=34
+Reusing connection
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=332045,port=3306,socket=0,data_id=34
+rows returned: 1
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=332045,port=3306,socket=0,data_id=34
+Target for new data: -1208888184
+Success on write data
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=332045,port=3306,socket=0,data_id=34
+Got one message:
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=234354,port=3306,socket=0,data_id=35
+Reusing connection
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=234354,port=3306,socket=0,data_id=35
+rows returned: 1
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=234354,port=3306,socket=0,data_id=35
+Target for new data: -1208888151
+Success on write data
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=234354,port=3306,socket=0,data_id=35
+Got one message:
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=339340,port=3306,socket=0,data_id=36
+Reusing connection
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=339340,port=3306,socket=0,data_id=36
+rows returned: 1
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=339340,port=3306,socket=0,data_id=36
+Target for new data: -1208888118
+Success on write data
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=339340,port=3306,socket=0,data_id=36
+Got one message:
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=410786,port=3306,socket=0,data_id=37
+Reusing connection
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=410786,port=3306,socket=0,data_id=37
+rows returned: 1
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=410786,port=3306,socket=0,data_id=37
+Target for new data: -1208888085
+Success on write data
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=410786,port=3306,socket=0,data_id=37
+Got one message:
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=41537,port=3306,socket=0,data_id=38
+Reusing connection
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=41537,port=3306,socket=0,data_id=38
+rows returned: 1
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=41537,port=3306,socket=0,data_id=38
+Target for new data: -1208888052
+Success on write data
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=41537,port=3306,socket=0,data_id=38
+Got one message:
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=222881,port=3306,socket=0,data_id=40
+Reusing connection
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=222881,port=3306,socket=0,data_id=40
+rows returned: 1
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=222881,port=3306,socket=0,data_id=40
+Target for new data: -1208888021
+Success on write data
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=222881,port=3306,socket=0,data_id=40
+Got one message:
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=7035,port=3306,socket=0,data_id=39
+Reusing connection
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=7035,port=3306,socket=0,data_id=39
+rows returned: 3
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=7035,port=3306,socket=0,data_id=39
+Target for new data: -1208887988
+Success on write data
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=7035,port=3306,socket=0,data_id=39
+Got one message:
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=339746,port=3306,socket=0,data_id=41
+Reusing connection
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=339746,port=3306,socket=0,data_id=41
+rows returned: 1
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=339746,port=3306,socket=0,data_id=41
+Target for new data: -1208887917
+Success on write data
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=339746,port=3306,socket=0,data_id=41
+Got one message:
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=154525,port=3306,socket=0,data_id=42
+Reusing connection
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=154525,port=3306,socket=0,data_id=42
+rows returned: 1
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=154525,port=3306,socket=0,data_id=42
+Target for new data: -1208887884
+Success on write data
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=154525,port=3306,socket=0,data_id=42
+Got one message:
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=491603,port=3306,socket=0,data_id=43
+Reusing connection
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=491603,port=3306,socket=0,data_id=43
+rows returned: 1
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=491603,port=3306,socket=0,data_id=43
+Target for new data: -1208887851
+Success on write data
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=491603,port=3306,socket=0,data_id=43
+Got one message:
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=169856,port=3306,socket=0,data_id=44
+Reusing connection
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=169856,port=3306,socket=0,data_id=44
+rows returned: 1
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=169856,port=3306,socket=0,data_id=44
+Target for new data: -1208887818
+Success on write data
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=169856,port=3306,socket=0,data_id=44
+Got one message:
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=213463,port=3306,socket=0,data_id=45
+Reusing connection
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=213463,port=3306,socket=0,data_id=45
+rows returned: 1
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=213463,port=3306,socket=0,data_id=45
+Target for new data: -1208887785
+Success on write data
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=213463,port=3306,socket=0,data_id=45
+Got one message:
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=23583,port=3306,socket=0,data_id=46
+Reusing connection
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=23583,port=3306,socket=0,data_id=46
+rows returned: 3
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=23583,port=3306,socket=0,data_id=46
+Target for new data: -1208887752
+Success on write data
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=23583,port=3306,socket=0,data_id=46
+Got one message:
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=171087,port=3306,socket=0,data_id=47
+Reusing connection
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=171087,port=3306,socket=0,data_id=47
+rows returned: 1
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=171087,port=3306,socket=0,data_id=47
+Target for new data: -1208887675
+Success on write data
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=171087,port=3306,socket=0,data_id=47
+Got one message:
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=371799,port=3306,socket=0,data_id=48
+Reusing connection
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=371799,port=3306,socket=0,data_id=48
+rows returned: 1
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=371799,port=3306,socket=0,data_id=48
+Target for new data: -1208887642
+Success on write data
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=371799,port=3306,socket=0,data_id=48
+Got one message:
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=153171,port=3306,socket=0,data_id=49
+Reusing connection
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=153171,port=3306,socket=0,data_id=49
+rows returned: 1
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=153171,port=3306,socket=0,data_id=49
+Target for new data: -1208887609
+Success on write data
+ HOST=localhost,DB=test,QUERY=select a,b,c from tt where b=153171,port=3306,socket=0,data_id=49
+End of log.

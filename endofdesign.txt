@@ -1,0 +1,7 @@
+[dgraham@daniel SQLPool]$ wc -l MySQLPool.cpp MySQLPool.h
+  117 MySQLPool.cpp
+  660 MySQLPool.h
+  777 total
+[dgraham@daniel SQLPool]$ date
+Tue Aug 18 22:13:15 CDT 2009
+
